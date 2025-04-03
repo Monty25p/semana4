@@ -1,0 +1,5 @@
+﻿Compilación iniciada a las 11:40 PM...
+1>------ Operación Compilar iniciada: Proyecto: ConsoleApp5, configuración: Debug Any CPU ------
+1>  ConsoleApp5 -> C:\Users\50584\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 11:40 PM y tardó 00.387 segundos ==========
